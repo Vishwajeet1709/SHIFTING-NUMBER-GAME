@@ -84,7 +84,7 @@ int main()
     }
     SetConsoleTextAttribute(h,4);
     printf("\n\tPRESS ESC KEY TO EXIT\n");
-    printf("\n\tMOVE ELEMENTS BY A(LEFT),W(UP),S(DOWN), AND D(RIGHT)\n");
+    printf("\n\tMOVE ELEMENTS BY A(LEFT),W(UP),S(DOWN), & D(RIGHT)\n");
 
     ShortArr(b); //calling short function to compare with result
 
